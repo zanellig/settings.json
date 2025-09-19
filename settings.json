@@ -100,14 +100,6 @@
       "source.fixAll.markdownlint": "always"
     }
   },
-  "cSpell.userWords": [
-    "diarize",
-    "gustaria",
-    "inicialización",
-    "pacman",
-    "renderizar",
-    "tailwindcss"
-  ],
   "terminal.integrated.env.windows": {},
   "remote.SSH.showLoginTerminal": true,
   "files.watcherExclude": {
